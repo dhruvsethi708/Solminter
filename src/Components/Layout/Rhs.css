@@ -1,0 +1,14 @@
+.rhs{
+    background-color: rgb(240,235,244);;
+    width: 70vw;
+    padding: 24px 32px;
+}
+
+.text{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    margin-left: 380px;
+    align-items: center;
+}
